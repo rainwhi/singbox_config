@@ -39,7 +39,7 @@
     {"tag": "🇯🇵 日本", "type": "selector", "outbounds": []},
     {"tag": "🇸🇬 新加坡", "type": "selector", "outbounds": []},
     {"tag": "🇺🇲 美国", "type": "selector", "outbounds": []},
-     {"tag": "cf CloudFare", "type": "selector", "outbounds": []},
+    {"tag": "cf CloudFare", "type": "selector", "outbounds": []},
     {"tag": "🐸 手动选择", "type": "selector", "outbounds": []},
     {"tag": "♻️ 自动选择", "type": "urltest", "outbounds": []},
     {"tag": "🍃 延迟辅助", "type": "urltest", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
