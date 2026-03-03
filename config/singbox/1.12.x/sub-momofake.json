@@ -24,7 +24,7 @@
     {"tag": "🚀 默认代理", "type": "selector", "outbounds": ["🇺🇲 美国"]},
     {"tag": "🧠 AI", "type": "selector", "outbounds": ["🇺🇲 美国"]},
     {"tag": "📹 YouTube", "type": "selector", "outbounds": ["🇭🇰 香港", "🇯🇵 日本", "🇸🇬 新加坡", "CloudFare", "🐸 手动选择"]},
-    {"tag": "🍀 Google", "type": "selector", "outbounds": ["🇺🇲 美国"},
+    {"tag": "🍀 Google", "type": "selector", "outbounds": ["🇺🇲 美国"]},
     {"tag": "👨‍💻 Github", "type": "selector", "outbounds": ["🇺🇲 美国"]},
     {"tag": "📲 Telegram", "type": "selector", "outbounds": ["🇺🇲 美国"]},
     {"tag": "🎵 TikTok", "type": "selector", "outbounds": ["🇺🇲 美国"]},
